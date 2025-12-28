@@ -1,7 +1,7 @@
 # DM Website Smoke Tests
 
 
-This repository contains **manual smoke tests** for the DM website. Test cases were created and managed using **Zephyr in Jira**. Screenshots are included to illustrate test execution and expected results.
+This repository contains **manual smoke tests** for the [DM](https://www.dm.ro/) website. Test cases were created and managed using **Zephyr in Jira**. Screenshots are included to illustrate test execution and expected results.
 
 
 ## Folder Structure
