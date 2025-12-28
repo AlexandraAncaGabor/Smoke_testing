@@ -5,7 +5,7 @@
  Homepage is accessible
 
 
-|     | **Test steps**                                                              | **Expected results**         |
-| --- | --------------------------------------------------------------------------- |                              |
-| 1   | Open a browser (e.g. Chrome / ​Mozilla)                                      |                              |
-| 2   | ​Navigate to https://www.dm.ro                                               | ​Page opens sucessfully       |
+| #   | Test steps                              | Expected results             |
+| --- | --------------------------------------- | ---------------------------- |
+| 1   | Open a browser (e.g. Chrome / Mozilla)  | Browser opens successfully  |
+| 2   | Navigate to https://www.dm.ro           | Page opens successfully     |
