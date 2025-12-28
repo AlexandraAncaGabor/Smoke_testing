@@ -18,7 +18,7 @@ This repository contains **manual smoke tests** for the [DM](https://www.dm.ro/)
 
 Click on each test to view details:
 
- **Test Case** | **Detail** | **Screenshots** |
+ **Test Case** | **Description** | **Screenshots** |
 | ------------- | ---------- | -------------- |
 | [tc_1_Page_loads](Test_cases/tc_1_Page_loads.md) | Verify homepage loads successfully | [ss _1_homepage](screenshots/ss_1_homepage) |
 | [tc_2_Cookie_consent](Test_cases/tc_2_Cookie_consent.md) | Cookie consent | [ss_2_cookies](screenshots/ss_2_cookies) |
