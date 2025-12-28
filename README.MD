@@ -18,9 +18,9 @@ This repository contains **manual smoke tests** for the DM website. Test cases w
 
 Click on each test to view details:
 
- **Test Case** | **Detail** | **Screenshot** |
+ **Test Case** | **Detail** | **Screenshots** |
 | ------------- | ---------- | -------------- |
-| [tc_1_Page_loads](Test_cases/tc_1_Page_loads.md) | Verify homepage loads successfully | [ss_1_homepage](screenshots/ss_1_homepage) |
+| [tc_1_Page_loads](Test_cases/tc_1_Page_loads.md) | Verify homepage loads successfully | [ss _1_homepage](screenshots/ss _1_homepage) |
 | [tc_2_Cookie_consent](Test_cases/tc_2_Cookie_consent.md) | Cookie consent | [ss_2_cookies](screenshots/ss_2_cookies) |
 | [tc_3_Search_product](Test_cases/tc_3_Search_product.md) | Search for a valid product | [ss_3_search_product](screenshots/ss_3_search_product) |
 | [tc_4_Add_to_cart](Test_cases/tc_4_Add_to_cart.md) | Add product to cart | [ss_4_add_to_cart](screenshots/ss_4_add_to_cart) |
